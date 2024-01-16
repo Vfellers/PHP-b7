@@ -1,0 +1,3 @@
+<?php
+//              ../  --> voltar pasta
+?>
